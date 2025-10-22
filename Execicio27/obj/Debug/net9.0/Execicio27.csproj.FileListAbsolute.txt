@@ -1,0 +1,14 @@
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\bin\Debug\net9.0\Execicio27.exe
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\bin\Debug\net9.0\Execicio27.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\bin\Debug\net9.0\Execicio27.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\bin\Debug\net9.0\Execicio27.dll
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\bin\Debug\net9.0\Execicio27.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.dll
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\refint\Execicio27.dll
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\Execicio27.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\Execicio27\obj\Debug\net9.0\ref\Execicio27.dll

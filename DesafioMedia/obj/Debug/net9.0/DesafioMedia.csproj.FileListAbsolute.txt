@@ -1,0 +1,14 @@
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\bin\Debug\net9.0\DesafioMedia.exe
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\bin\Debug\net9.0\DesafioMedia.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\bin\Debug\net9.0\DesafioMedia.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\bin\Debug\net9.0\DesafioMedia.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\bin\Debug\net9.0\DesafioMedia.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\refint\DesafioMedia.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\DesafioMedia.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioMedia\obj\Debug\net9.0\ref\DesafioMedia.dll

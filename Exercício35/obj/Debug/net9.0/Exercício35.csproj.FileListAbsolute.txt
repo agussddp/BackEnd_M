@@ -1,0 +1,14 @@
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\bin\Debug\net9.0\Exercício35.exe
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\bin\Debug\net9.0\Exercício35.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\bin\Debug\net9.0\Exercício35.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\bin\Debug\net9.0\Exercício35.dll
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\bin\Debug\net9.0\Exercício35.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.dll
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\refint\Exercício35.dll
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\Exercício35.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\Exercício35\obj\Debug\net9.0\ref\Exercício35.dll

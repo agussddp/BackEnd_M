@@ -1,0 +1,14 @@
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\bin\Debug\net9.0\DesafioCal.exe
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\bin\Debug\net9.0\DesafioCal.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\bin\Debug\net9.0\DesafioCal.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\bin\Debug\net9.0\DesafioCal.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\bin\Debug\net9.0\DesafioCal.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\refint\DesafioCal.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\DesafioCal.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioCal\obj\Debug\net9.0\ref\DesafioCal.dll

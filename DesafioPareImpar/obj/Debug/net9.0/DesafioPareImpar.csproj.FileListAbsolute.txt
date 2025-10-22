@@ -1,0 +1,14 @@
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\bin\Debug\net9.0\DesafioPareImpar.exe
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\bin\Debug\net9.0\DesafioPareImpar.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\bin\Debug\net9.0\DesafioPareImpar.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\bin\Debug\net9.0\DesafioPareImpar.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\bin\Debug\net9.0\DesafioPareImpar.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\refint\DesafioPareImpar.dll
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\DesafioPareImpar.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\DesafioPareImpar\obj\Debug\net9.0\ref\DesafioPareImpar.dll
