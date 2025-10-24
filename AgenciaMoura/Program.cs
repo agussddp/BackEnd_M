@@ -101,6 +101,7 @@ do
 {
     Console.WriteLine($"==lista de cliente==");
 
-    0 - Eduardo Costa | saldo R$ 0,00
-    1 - Maria Almeida | saldo R$ 0,00
+    for (int i = 0; i < totalClientes)
+    Console.WriteLine($"{i} - {nomes[i]} | saldo: R$ {saldo[i]}");
+    
 }
