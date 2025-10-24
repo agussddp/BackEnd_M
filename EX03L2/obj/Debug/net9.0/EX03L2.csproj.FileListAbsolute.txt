@@ -1,0 +1,15 @@
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\bin\Debug\net9.0\EX03L2.exe
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\bin\Debug\net9.0\EX03L2.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\bin\Debug\net9.0\EX03L2.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\bin\Debug\net9.0\EX03L2.dll
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\bin\Debug\net9.0\EX03L2.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.sourcelink.json
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.dll
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\refint\EX03L2.dll
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\EX03L2.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\EX03L2\obj\Debug\net9.0\ref\EX03L2.dll
