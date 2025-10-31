@@ -35,43 +35,72 @@ do
             break;
 
         case 1:
-            Console.WriteLine($"Boa escolha estamos preparando seu Hot Holl com carinho");
-            Console.WriteLine();
-            break;
+                HotHoll();
+        break;
 
         case 2:
-            Console.WriteLine($"Boa escolha estamos preparando seu Temaki com carinho");
-            Console.WriteLine();
-            break;
+                Temaki();
+        break;
 
         case 3:
-            Console.WriteLine($"Boa escolha estamos preparando seu Sashimi com carinho");
-            Console.WriteLine();
-            break;
+                Sashimi();
+        break;
 
         case 4:
-            Console.WriteLine($"Boa escolha estamos preparando seu Yakisoba com carinho");
-            Console.WriteLine();
-            break;
+                Yakisoba();
+        break;
 
         case 5:
-            Console.WriteLine($"Boa escolha estamos preparando seu Guioza com carinho");
-            Console.WriteLine();
-            break;
+                Guioza();
+        break;
 
         case 6:
-            Console.WriteLine($"Boa escolha estamos preparando seu Shimeji com carinho");
-            Console.WriteLine();
-            break;
+                Shimeji();
+        break;
 
     }
+
 
      Console.WriteLine($"Digite <Enter> para continuar");
      Console.ReadLine();
      
 
-    //rodar o menu em loop
-    //o menu deve aparecer // rodar pelo menos uma vez
-
 } while (opcao != 0)
 ;
+
+
+void HotHoll()
+{
+    Console.WriteLine($"Boa escolha estamos preparando seu Hot Holl com carinho");
+    Console.WriteLine();
+    }
+
+void Temaki()
+{
+    Console.WriteLine($"Boa escolha estamos preparando seu Temaki com carinho");
+    Console.WriteLine();
+    }
+
+void Sashimi()
+{
+    Console.WriteLine($"Boa escolha estamos preparando seu Sashimi com carinho");
+    Console.WriteLine();
+    }
+
+void Yakisoba()
+{
+    Console.WriteLine($"Boa escolha estamos preparando seu Yakisoba com carinho");
+    Console.WriteLine();
+    }
+
+void Guioza()
+{
+    Console.WriteLine($"Boa escolha estamos preparando seu Guioza com carinho");
+    Console.WriteLine();
+    }
+
+void Shimeji()
+{
+    Console.WriteLine($"Boa escolha estamos preparando seu Shimeji com carinho");
+    Console.WriteLine();
+    }

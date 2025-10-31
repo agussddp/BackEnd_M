@@ -73,8 +73,7 @@ do
      Console.ReadLine();
      
 
-} while (opcao != 0)
-;
+} while (opcao != 0);
 
 
 void Exercicio01()
