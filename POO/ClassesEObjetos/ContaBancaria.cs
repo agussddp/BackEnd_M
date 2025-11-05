@@ -22,7 +22,6 @@ namespace ClassesEObjetos
             {
                 Console.WriteLine($"O valor do depósito deve ser maior do que R$ 0");
                 return;
-
             }
 
             Saldo += _valorDeposito;
@@ -42,7 +41,7 @@ namespace ClassesEObjetos
 
             Saldo -= _valorSaque;
 
-            Console.WriteLine($"Saque realizado! Novo Saldo: {Saldo}");
+            Console.WriteLine($"Saque realizado! Novo Saldo: {Saldo:F2}");
 
         }
 
