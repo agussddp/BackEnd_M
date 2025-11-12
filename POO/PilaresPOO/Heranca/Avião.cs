@@ -3,28 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-
-
 namespace Heranca
 {
-    public class Carro : Veiculos
+    public class Avião : Veiculos
     {
-        public int QtdPortar;
+        public int QtdAssentos;
+
+        public void Voar()
+        {
+            Console.WriteLine($"Levantando vôo...");
+            
+        }
 
         public void ExibirInfo()
         {
             Console.WriteLine($"Marca: {Marca}");
             Console.WriteLine($"Modelo: {Modelo}");
             Console.WriteLine($"Ano: {Ano}");
-            Console.WriteLine($"QtdPortar: {QtdPortar}");
+            Console.WriteLine($"QtdPortar: {QtdAssentos}");
 
         }
-
-        public void Acelerar()
-        {
-            Console.WriteLine($"Vruuummmmmmmm");
-
-        }
+        
 
     }
 }

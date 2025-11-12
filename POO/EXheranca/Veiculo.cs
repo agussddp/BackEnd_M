@@ -3,26 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace EXheranca
 {
-    public class Veiculos
+    public class Veiculo
     {
         public string Marca;
 
         public string Modelo;
 
-        public int Ano;
-
-        
-
-        public void Acelerar()
+        public void MostrarInfo()
         {
-            Console.WriteLine($"Acelerando o veiculo...");
+            Console.WriteLine($"A marca do veículo é {Marca} e o modelo é {Modelo}!");
             
         }
-
     }
-
-
-    
 }
