@@ -5,16 +5,13 @@ using System.Threading.Tasks;
 
 namespace EX04T
 {
-    public class Pessoa
+    public class Aluno : Pessoa
     {
-        public string Nome;
-
-        public int Idade;
+        public string Curso;
 
         public void ExibirDados()
         {
-            Console.WriteLine($"O nome da pessoa é {Nome} e a idade é {Idade} anos");
-
+            Console.WriteLine($"O nome do Aluno é {Nome}, a idade é {Idade} anos e o curso é {Curso}!");
         }
     }
 }
