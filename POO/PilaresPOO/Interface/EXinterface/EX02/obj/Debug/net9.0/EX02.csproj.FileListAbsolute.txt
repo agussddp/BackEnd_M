@@ -1,0 +1,15 @@
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\bin\Debug\net9.0\EX02.exe
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\bin\Debug\net9.0\EX02.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\bin\Debug\net9.0\EX02.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\bin\Debug\net9.0\EX02.dll
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\bin\Debug\net9.0\EX02.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.sourcelink.json
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.dll
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\refint\EX02.dll
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\EX02.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Interface\EXinterface\EX02\obj\Debug\net9.0\ref\EX02.dll
