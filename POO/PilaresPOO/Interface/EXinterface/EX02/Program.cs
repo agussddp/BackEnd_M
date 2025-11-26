@@ -87,11 +87,11 @@ switch (opcao)
         break;
 
     case 2:
-    Console.WriteLine($"Cadatrar Relatório em desenvolvimento...");
+        CadastrarRelatorios();
         break;
 
     case 3:
-    Console.WriteLine($"Cadatrar Contratos em desenvolvimento...");
+    CadastrarContratos();
         break;
 
     case 4:
@@ -99,11 +99,11 @@ switch (opcao)
         break;
 
     case 5:
-    Console.WriteLine($"Listar Relatórios em desenvolvimento...");
+    ListarRelatorios();
         break;
 
     case 6:
-    Console.WriteLine($"Listar Contratos em desenvolvimento...");
+    ListarContratos();
         break;
 
     case 0:
@@ -143,6 +143,9 @@ void CadastrarFaturas()
 
     Fatura fat = new Fatura(dev, empresa, valor, qtdAtraso);
     documentos.Add(fat);
+
+    Console.WriteLine("Fatura cadastrada com sucesso!");
+
     	    }
 void ListarFaturas()
 {
@@ -158,23 +161,71 @@ void ListarFaturas()
 }
 
 
-//Relatorios
-void ListarRelatorios()
+//Contratos
+void CadastrarContratos()
+{
+   Console.WriteLine("Digite o nome do contratante");
+    string nome = Console.ReadLine();
 
-{  }
+    Console.WriteLine("Digite o texto das cláusulas do contrato");
+    string clausulas = Console.ReadLine();
 
-void ListarContratos()
-{  
+    //criar um objetoda classe contrato
+    Contrato contrato = new Contrato();
+    contrato.Nome = nome;
+    contrato.TextoClausulas = clausulas;
+
+    // cadastrar o contrato na lista de documentos
+    documentos.Add(contrato);
+    Console.WriteLine("Contrato cadastrado com sucesso!");
 }
+void ListarContratos()
+{
+     Console.WriteLine($"Listando contratos");
+    
+    foreach (var item in documentos)
+    {
+        if(item is Contrato)
+        {
+            item.Imprimir();
+        }  
+    }
+}
+
+
 
 
 //Relatorios
 void CadastrarRelatorios()
-{   
+{
+    Console.WriteLine($"Digite o nome do responsável");
+    string responsavel = Console.ReadLine();
+
+    Console.WriteLine($"Digite o nome da empresa");
+    string empresa = Console.ReadLine();
+
+    Console.WriteLine($"Digite a descrição do relatório");
+    string descricao = Console.ReadLine();
+
+    Relatorio rel = new Relatorio(responsavel, empresa, descricao);
+    documentos.Add(rel);
+
+    Console.WriteLine("Relatório cadastrado com sucesso!");
 }
-void CadastrarContratos()
-{    
+void ListarRelatorios()
+{
+     Console.WriteLine($"Listando relatorios");
+    
+    foreach (var item in documentos)
+    {
+        if(item is Relatorio)
+        {
+            item.Imprimir();
+        }  
+    }
 }
+
+
 
 
 

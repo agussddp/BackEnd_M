@@ -1,0 +1,15 @@
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\bin\Debug\net9.0\EXEmcapsulamento.exe
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\bin\Debug\net9.0\EXEmcapsulamento.deps.json
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\bin\Debug\net9.0\EXEmcapsulamento.runtimeconfig.json
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\bin\Debug\net9.0\EXEmcapsulamento.dll
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\bin\Debug\net9.0\EXEmcapsulamento.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.AssemblyInfoInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.AssemblyInfo.cs
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.sourcelink.json
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.dll
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\refint\EXEmcapsulamento.dll
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.pdb
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\EXEmcapsulamento.genruntimeconfig.cache
+C:\Users\54781547842\Desktop\BackEnd_M\POO\PilaresPOO\Emcapsulamento\EXEmcapsulamento\obj\Debug\net9.0\ref\EXEmcapsulamento.dll

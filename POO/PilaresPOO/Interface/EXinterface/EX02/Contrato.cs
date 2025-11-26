@@ -7,10 +7,16 @@ namespace EX02
 {
     public class Contrato : IImprimivel
     {
+        public string Nome;
+        public string TextoClausulas;
         public void Imprimir()
         {
-           Console.WriteLine($"Imprimindo contrato...");
-           
+            Console.WriteLine($@"
+        Responsavel: {Nome}
+        Descrição relatorio: {TextoClausulas}
+         ");
         }
     }
 }
+
+//fazer a funcaob de cadastrar e listar os relatorios
