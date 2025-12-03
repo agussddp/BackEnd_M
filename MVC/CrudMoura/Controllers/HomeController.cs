@@ -13,6 +13,7 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    //ação padrão inicial
     public IActionResult Index()
     {
         return View();
@@ -20,16 +21,18 @@ public class HomeController : Controller
 
     public IActionResult MinhaAcao()
     {
-        return View();//  retorna a página minha ação
+        //retorne a página MinhaAcao.cshtml
+        return View();
     }
-    public IActionResult ListaNomes()
-    {
 
-    string[] nomes = {"Joseph Goldberg", "Will Bettelheim", "Jonathan Moore"};
+    public IActionResult ListarNomes()
+    {   
+        // Cria um array de nomes já preenchido
+        string[] nomes = {"Eduardo", "Maria", "João", "Kauã", "Milena", "Rafaela"};
+        ViewBag.Teste = "Olá, eu vim através da Viewbag";
+        ViewBag.nomes = nomes;//guarda os nomes na viewbag
 
-    ViewBag.Teste = "OLa, vi atraves do ViewBag";
-    ViewBag.nomes = nomes; //chama as views passando os dados
-    return View();
+        return View();//chama a view passando os dados
     }
 
     public IActionResult Privacy()

@@ -1,5 +1,3 @@
-
-
 namespace CrudMoura.Models
 {
     public class Fruta

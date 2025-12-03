@@ -1,13 +1,9 @@
-    <h1>Página Lista Nomes</h1>
+<h1>Página Lista Nomes</h1>
 
-<h1>Lista de Frutas</h1>
+<p> @ViewBag.Teste</p>
 
-@foreach (var item in ViewBag.nomes)
-{
-    <p>
-        <li>
-            @item
-        </li>
-    </p>
-
-  }
+<ul>
+    @foreach (var item in ViewBag.Nomes){
+        <li> @item </li>
+    }
+</ul>
