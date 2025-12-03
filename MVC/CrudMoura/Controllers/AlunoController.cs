@@ -32,7 +32,7 @@ namespace CrudMoura.Controllers
 
      public IActionResult ListarAlunos()
     {
-        ViewBag.Alunos = ListaDeAlunos;
+        ViewBag.aluno = ListaDeAlunos;
         return View();
     }
 

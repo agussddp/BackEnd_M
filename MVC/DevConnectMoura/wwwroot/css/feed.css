@@ -1,0 +1,258 @@
+main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container-flex-publi {
+    /* background-color: var(--cor-azul-escuro4); */
+    /* height: 700px; */
+    width: 90%;
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+#storys {
+    width: 100%;
+    /* height: 300px; */
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow-x: scroll;
+    gap: 30px;
+}
+
+#storys::-webkit-scrollbar {
+    width: 0;
+}
+
+.texto-storys {
+    color: var(--cor-branco);
+    cursor: pointer;
+
+}
+
+.card-story>button {
+    background-color: transparent;
+    border: none;
+
+    font-size: var(--tamanho-font-sm);
+    color: var(--cor-azul-escuro5);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.card-story>button>img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+/* secao criar publi */
+
+.formulario-botao-azul {
+    width: 150px;
+    cursor: pointer;
+}
+
+#botao-upload{
+    cursor: pointer;
+}
+
+#criar-publicacao {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+#criar-publicacao>h2 {
+    color: var(--cor-branco);
+    font-size: var(--tamanho-fonte-lg);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+#criar-publicacao>form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+#criar-publicacao>form>textarea {
+    width: 100%;
+    height: 80px;
+    padding: 10px;
+    resize: none;
+    border: var(--borda);
+    color: var(--cor-azul-escuro5);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+#criar-publicacao>form>textarea::placeholder {
+    color: var(--cor-azul-claro4);
+}
+
+#criar-publicacao>form>footer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
+
+/* secao publi*/
+
+#publicacoes {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5%;
+}
+
+#publicacoes>.card-publi>button{
+    background-color: transparent;
+    border: none;
+
+    color: var(--cor-azul-claro2);
+    font-size: var(--tamanho-fonte-sm);
+    order: 3;
+
+    margin-left: 15px;
+
+    align-items: flex-start;
+    cursor: pointer;
+}
+
+.card-publi {
+    background-color: var(--cor-azul-escuro5);
+    width: 100%;
+    /* height: 600px; */
+    padding: 15px;
+    border-radius: var(--borda-arredondada);
+}
+
+.card-publi>header {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-publi>span{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.icon-perfil>a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    color: var(--cor-branco);
+    text-transform: lowercase;
+}
+
+.card-publi>figure {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.imagem-publicacao {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 450px;
+    margin-top: 10px;
+}
+
+.card-publi>figure>figcaption {
+    color: var(--cor-branco);
+    font-size: var(--tamanho-fonte-md);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    margin-left: 15px;
+    order: 2;
+}
+
+.descricao-publicacao {
+    font-size: var(--tamanho-fonte-sm);
+    font-weight: 200;
+}
+
+.interacoes-publicacoes {
+    display: flex;
+    width: 100px;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 6px;
+    order: 1;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+div>span {
+    color: var(--cor-branco);
+    font-weight: 300;
+}
+
+.card-publi>.textopubli{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.interacoes-publicacoes>button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.card-publi>figure>button {
+    background-color: transparent;
+    border: none;
+
+    color: var(--cor-azul-claro2);
+    font-size: var(--tamanho-fonte-sm);
+    order: 3;
+
+    margin-left: 15px;
+
+    align-items: flex-start;
+    cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    
+    figure>figcaption>.descricao-publicacao{
+        font-size: 13px;
+    }
+    
+    figure>figcaption>p{
+        font-size: 10px;
+    }
+    
+    figure>figcaption{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
