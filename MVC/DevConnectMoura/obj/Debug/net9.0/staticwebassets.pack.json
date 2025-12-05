@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\DevConnectMoura.cntyrwmgkp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
       "Id": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\feed.css",
       "PackagePath": "staticwebassets\\css\\feed.css"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css",
+      "PackagePath": "staticwebassets\\css\\perfil.css"
     },
     {
       "Id": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\site.css",

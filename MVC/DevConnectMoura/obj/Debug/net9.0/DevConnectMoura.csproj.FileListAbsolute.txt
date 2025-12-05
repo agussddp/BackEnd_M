@@ -118,3 +118,5 @@ C:\Users\54781547842\Desktop\BackEnd_M\MVC\DevConnectMoura\obj\Debug\net9.0\comp
 C:\Users\54781547842\Desktop\BackEnd_M\MVC\DevConnectMoura\obj\Debug\net9.0\compressed\pdes8busaa-m2u8fj52q6.gz
 C:\Users\54781547842\Desktop\BackEnd_M\MVC\DevConnectMoura\obj\Debug\net9.0\compressed\3gs3duizp8-dpeii651n7.gz
 C:\Users\54781547842\Desktop\BackEnd_M\MVC\DevConnectMoura\obj\Debug\net9.0\compressed\4bcznumghg-uxvust3kcj.gz
+C:\Users\54781547842\Desktop\BackEnd_M\MVC\DevConnectMoura\obj\Debug\net9.0\compressed\m5e58ooy7i-zh97aafoyj.gz
+C:\Users\54781547842\Desktop\BackEnd_M\MVC\DevConnectMoura\obj\Debug\net9.0\compressed\6zrxwlw4xg-gi4fkysean.gz

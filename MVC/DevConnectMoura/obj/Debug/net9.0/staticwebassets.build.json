@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D+MsXLcmYwIjMIk47J+p++0Mxg7wbwE9hxQNVG+bOA8=",
+  "Hash": "kD8v29PbkFbsEQOJHnbT7jOKdkjzZ8zCzrNlPn5I3sw=",
   "Source": "DevConnectMoura",
   "BasePath": "_content/DevConnectMoura",
   "Mode": "Default",
@@ -267,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\6zrxwlw4xg-gi4fkysean.gz",
+      "SourceId": "DevConnectMoura",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DevConnectMoura",
+      "RelativePath": "css/perfil#[.{fingerprint=gi4fkysean}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0gy0hq1irh",
+      "Integrity": "oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css"
     },
     {
       "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\7gu47kn4ly-2nttpaydrt.gz",
@@ -1109,6 +1130,27 @@
       "OriginalItemSpec": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+      "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\m5e58ooy7i-zh97aafoyj.gz",
+      "SourceId": "DevConnectMoura",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DevConnectMoura",
+      "RelativePath": "css/cadastro#[.{fingerprint=zh97aafoyj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\cadastro.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qcl7zn0n9p",
+      "Integrity": "JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\cadastro.css"
+    },
+    {
       "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\maxkyakf1f-aexeepp0ev.gz",
       "SourceId": "DevConnectMoura",
       "SourceType": "Discovered",
@@ -1865,6 +1907,27 @@
       "OriginalItemSpec": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevConnectMoura.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\cadastro.css",
+      "SourceId": "DevConnectMoura",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\",
+      "BasePath": "_content/DevConnectMoura",
+      "RelativePath": "css/cadastro#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zh97aafoyj",
+      "Integrity": "KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cadastro.css"
+    },
+    {
       "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\feed.css",
       "SourceId": "DevConnectMoura",
       "SourceType": "Discovered",
@@ -1926,6 +1989,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css",
+      "SourceId": "DevConnectMoura",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\",
+      "BasePath": "_content/DevConnectMoura",
+      "RelativePath": "css/perfil#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gi4fkysean",
+      "Integrity": "aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\perfil.css"
     },
     {
       "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\site.css",
@@ -4135,6 +4219,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\m5e58ooy7i-zh97aafoyj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001923076923"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "519"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:00:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:00:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css.gz",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\m5e58ooy7i-zh97aafoyj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:00:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.zh97aafoyj.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\m5e58ooy7i-zh97aafoyj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001923076923"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "519"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:00:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zh97aafoyj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.zh97aafoyj.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:00:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zh97aafoyj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KTK65jkEj0K/ShInoP43gtKWke4X+OhwgvTmlGfR3go="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.zh97aafoyj.css.gz",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\m5e58ooy7i-zh97aafoyj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:00:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zh97aafoyj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhlwomF6F7ewlHkZPaaYM0SVa4eOQDwEk2yXZBoWUwk="
+        }
+      ]
+    },
+    {
       "Route": "css/feed.css",
       "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\4bcznumghg-uxvust3kcj.gz",
       "Selectors": [
@@ -5025,6 +5407,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-J1FKrM+Dxn6H58+KNItc8EvQ0AGXdPHmGY2SCmFyWpA="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\6zrxwlw4xg-gi4fkysean.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000921658986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.css.gz",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\6zrxwlw4xg-gi4fkysean.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.gi4fkysean.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\6zrxwlw4xg-gi4fkysean.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000921658986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gi4fkysean"
+        },
+        {
+          "Name": "label",
+          "Value": "css/perfil.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.gi4fkysean.css",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gi4fkysean"
+        },
+        {
+          "Name": "label",
+          "Value": "css/perfil.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.gi4fkysean.css.gz",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\compressed\\6zrxwlw4xg-gi4fkysean.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 12:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gi4fkysean"
+        },
+        {
+          "Name": "label",
+          "Value": "css/perfil.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGiIjnCDo/fP/SqEH+V9YQuyMCb5bPwQV/r93I63ygE="
         }
       ]
     },

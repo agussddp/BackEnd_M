@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevConnectMoura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b332c2e5ce3dd20c711c1f2571442767f63147de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+321ae5db58f006e2dee29d90dcdbf8ea5827e055")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevConnectMoura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevConnectMoura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

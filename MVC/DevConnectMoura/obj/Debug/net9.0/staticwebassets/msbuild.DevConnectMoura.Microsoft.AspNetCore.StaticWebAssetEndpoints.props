@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/DevConnectMoura/css/cadastro.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cadastro.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KTK65jkEj0K/ShInoP43gtKWke4X\u002BOhwgvTmlGfR3go="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1978"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KTK65jkEj0K/ShInoP43gtKWke4X\u002BOhwgvTmlGfR3go=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Dec 2025 12:00:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DevConnectMoura/css/cadastro.zh97aafoyj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cadastro.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zh97aafoyj"},{"Name":"integrity","Value":"sha256-KTK65jkEj0K/ShInoP43gtKWke4X\u002BOhwgvTmlGfR3go="},{"Name":"label","Value":"_content/DevConnectMoura/css/cadastro.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1978"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KTK65jkEj0K/ShInoP43gtKWke4X\u002BOhwgvTmlGfR3go=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Dec 2025 12:00:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DevConnectMoura/css/feed.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\feed.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -35,6 +47,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lI81bd5kGqssMQjlkUJV0ZYY/MXKpr1UFBT3cM\u002B6nDQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1612"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lI81bd5kGqssMQjlkUJV0ZYY/MXKpr1UFBT3cM\u002B6nDQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Dec 2025 18:34:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DevConnectMoura/css/perfil.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\perfil.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5482"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Dec 2025 12:32:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DevConnectMoura/css/perfil.gi4fkysean.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\perfil.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gi4fkysean"},{"Name":"integrity","Value":"sha256-aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q="},{"Name":"label","Value":"_content/DevConnectMoura/css/perfil.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5482"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aJ9Hs2nwJlurS6GtvM360ZZkwy2VKSMP3VY/5s8vt5Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Dec 2025 12:32:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DevConnectMoura/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

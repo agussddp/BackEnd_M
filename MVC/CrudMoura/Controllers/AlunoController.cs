@@ -12,6 +12,8 @@ namespace CrudMoura.Controllers
     public class AlunosController : Controller
     {
         private readonly ILogger<AlunosController> _logger;
+        private readonly CrudMouraContext _context;//representa nosso banco de dados
+
         public static List<Alunos> ListaDeAlunos = new List<Alunos>
     {
     new Alunos { Id = 1, Nome = "Joe",        Idade = 17, Curso = "DEV"},
