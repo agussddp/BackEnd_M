@@ -1,41 +1,56 @@
+  @model DevConnectMoura.Models.TbUsuario
+
   <link rel="stylesheet" href="~/css/cadastro.css">
+
+  <script defer>
+    let usuarioNovoCadastrado = "@ViewBag.UsuarioNovoCadastrado";
+
+    if(usuarioNovoCadastrado == "Nao cadastrado"){
+
+        alert("Não foi possivel cadastrar esse usuário! Fale com nossos adminitradores.");
+
+    }
+
+
+  </script>
 
   <h1>Tela de Cadastro - DevConnect</h1>
 
     <main>
         <div>
-            <form class="estilização-formulario">
+            <form class="estilização-formulario" asp-action="Index" asp-controller="Usuario"
+            enctype="multipart/form-data">
                 <img src="~/images/Propriedade 1=Padrão.svg" alt="">
 
                 <p>Cadastre-se para comunidade exclusiva dedesenvolvedores(as)</p>
                 
                 <div class="campo-texto">
                     <!-- <label for="">Nome e sobrenome</label> -->
-                    <input type="text" placeholder="Nome e sobrenome">
+                    <input type="text" placeholder="Nome e sobrenome" asp-for="Nomecompleto">
                 </div>
 
                 <div class="campo-texto">
                     <!-- <label for="">Nome de usuário</label> -->
-                    <input type="text" placeholder="Nome de usuário">
+                    <input type="text" placeholder="Nome de usuário" asp-for="Nomeusuario">
                 </div>
 
                 <div class="campo-texto">
                     <!-- <label for="">Email</label> -->
-                    <input type="email" placeholder="Email">
+                    <input type="email" placeholder="Email" asp-for="Email">
                 </div>
 
 
                 <div class="campo-texto">
-                    <input type="password" placeholder="Senha">
+                    <input type="password" placeholder="Senha" asp-for="Senha">
                 </div>
 
                 <div class="campo-texto">
                 <label for="campo-upload" id="botao-upload">Faça upload aqui...</label>
-                <input type="file" id="campo-upload" placeholder="Faça o Upload">
+                <input type="file" name="Imagem" id="campo-upload" placeholder="Faça o Upload" accept="images/*">
                 </div>
 
                 <label for="formulario-botao-azul"></label>
-                <a class="formulario-botao-azul" href="../pages/feed.html">Cadastrar-se</a>
+                <button type="submit" class="formulario-botao-azul">Cadastrar-se</button>
                 <!-- <button type="submit" class="formulario-botao-azul">Cadastrar-se</button> -->
             
                 <div class="texto2">

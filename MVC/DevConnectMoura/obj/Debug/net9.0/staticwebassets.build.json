@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kD8v29PbkFbsEQOJHnbT7jOKdkjzZ8zCzrNlPn5I3sw=",
+  "Hash": "oyEoWsmbK2T6rPTjZhY//pPfQp6L6uCNIgoAwrjIow8=",
   "Source": "DevConnectMoura",
   "BasePath": "_content/DevConnectMoura",
   "Mode": "Default",
@@ -2493,6 +2493,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\innnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\images\\Jelly_thing_video_game.webp",
+      "SourceId": "DevConnectMoura",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\",
+      "BasePath": "_content/DevConnectMoura",
+      "RelativePath": "images/Jelly_thing_video_game#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3z6dl57rzx",
+      "Integrity": "j/0ZGVtt3p8+HvozZdfiq0xC+gPMSvT3L+NEdIcsamA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Jelly_thing_video_game.webp"
     },
     {
       "Identity": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\images\\jhope.jpg",
@@ -10779,6 +10800,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-lICJqOGfsfMr3Ftd/B9Yr7EBn0dFLScUw1bzgJvAtgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Jelly_thing_video_game.3z6dl57rzx.webp",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\images\\Jelly_thing_video_game.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/0ZGVtt3p8+HvozZdfiq0xC+gPMSvT3L+NEdIcsamA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 16:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3z6dl57rzx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Jelly_thing_video_game.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/0ZGVtt3p8+HvozZdfiq0xC+gPMSvT3L+NEdIcsamA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Jelly_thing_video_game.webp",
+      "AssetFile": "C:\\Users\\54781547842\\Desktop\\BackEnd_M\\MVC\\DevConnectMoura\\wwwroot\\images\\Jelly_thing_video_game.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/0ZGVtt3p8+HvozZdfiq0xC+gPMSvT3L+NEdIcsamA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 16:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/0ZGVtt3p8+HvozZdfiq0xC+gPMSvT3L+NEdIcsamA="
         }
       ]
     },

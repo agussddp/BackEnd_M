@@ -348,6 +348,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lICJqOGfsfMr3Ftd/B9Yr7EBn0dFLScUw1bzgJvAtgs="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"74023"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lICJqOGfsfMr3Ftd/B9Yr7EBn0dFLScUw1bzgJvAtgs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 12 Sep 2025 12:10:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DevConnectMoura/images/Jelly_thing_video_game.3z6dl57rzx.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Jelly_thing_video_game.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3z6dl57rzx"},{"Name":"integrity","Value":"sha256-j/0ZGVtt3p8\u002BHvozZdfiq0xC\u002BgPMSvT3L\u002BNEdIcsamA="},{"Name":"label","Value":"_content/DevConnectMoura/images/Jelly_thing_video_game.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13672"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022j/0ZGVtt3p8\u002BHvozZdfiq0xC\u002BgPMSvT3L\u002BNEdIcsamA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 12 Dec 2025 16:34:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DevConnectMoura/images/Jelly_thing_video_game.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Jelly_thing_video_game.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j/0ZGVtt3p8\u002BHvozZdfiq0xC\u002BgPMSvT3L\u002BNEdIcsamA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13672"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022j/0ZGVtt3p8\u002BHvozZdfiq0xC\u002BgPMSvT3L\u002BNEdIcsamA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 12 Dec 2025 16:34:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DevConnectMoura/images/jhope.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\jhope.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
